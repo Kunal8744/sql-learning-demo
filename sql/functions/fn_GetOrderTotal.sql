@@ -1,3 +1,3 @@
-SELECT SUM(Amount)
-FROM OrderLines
-WHERE OrderID = @OrderID;
+SELCT SUM(Amount)
+ROM OrderLines
+WHRE OrderID = @OrderID;
