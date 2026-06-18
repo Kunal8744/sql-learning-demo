@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "select-star": "error",
+    "missing-where": "error",
+    "semicolon-termination": "warning",
+    "set-ansi": "off"
+  }
+}
